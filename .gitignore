@@ -4,4 +4,6 @@ target/
 .settings/
 lib/
 .idea/
+.tern-project
+.springBeans
 RentACar.iml
