@@ -1,3 +1,4 @@
+package com.petros.diplomatiki.entity;
 
 public interface Person {
 	

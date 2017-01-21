@@ -1,3 +1,4 @@
+package com.petros.diplomatiki.entity;
 
 public class Car implements Vehicle {
 
