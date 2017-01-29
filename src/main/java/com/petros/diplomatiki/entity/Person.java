@@ -1,10 +1,10 @@
-package com.petros.diplomatiki.entity;
+package main.java.com.petros.diplomatiki.entity;
 
 public interface Person {
 	
     String getFirstName();
     String getLastName();
     String getEmail();
-    String getId();
+    int getId();
 
 }

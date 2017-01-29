@@ -1,4 +1,4 @@
-package com.petros.diplomatiki.entity;
+package main.java.com.petros.diplomatiki.testDB;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,7 @@ import java.sql.SQLException;
 
 		public static void main(String[] args)  {
 
-			String url = "jdbc:mysql://localhost:3306/demo?autoReconnect=true&useSSL=false";
+			String url = "jdbc:mysql://localhost:3306/RentACar?useSSL=false";
 			String user =  "root";
 			String pass =  "12345";
 

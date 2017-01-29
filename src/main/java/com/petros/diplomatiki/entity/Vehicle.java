@@ -1,4 +1,4 @@
-package com.petros.diplomatiki.entity;
+package main.java.com.petros.diplomatiki.entity;
 
 public interface Vehicle {
 	
