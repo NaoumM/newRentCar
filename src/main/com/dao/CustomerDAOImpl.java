@@ -1,6 +1,6 @@
-package main.java.com.petros.diplomatiki.dao;
+package main.com.dao;
 
-import main.java.com.petros.diplomatiki.entity.Customer;
+import main.com.entity.Customer;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;

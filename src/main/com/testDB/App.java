@@ -1,4 +1,4 @@
-package main.java.com.petros.diplomatiki.testDB;
+package main.com.testDB;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

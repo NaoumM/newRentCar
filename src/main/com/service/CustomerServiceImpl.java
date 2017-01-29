@@ -1,7 +1,7 @@
-package main.java.com.petros.diplomatiki.service;
+package main.com.service;
 
-import main.java.com.petros.diplomatiki.dao.CustomerDAO;
-import main.java.com.petros.diplomatiki.entity.Customer;
+import main.com.dao.CustomerDAO;
+import main.com.entity.Customer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

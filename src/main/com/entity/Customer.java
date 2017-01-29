@@ -1,4 +1,4 @@
-package main.java.com.petros.diplomatiki.entity;
+package main.com.entity;
 
 
 import javax.persistence.*;
