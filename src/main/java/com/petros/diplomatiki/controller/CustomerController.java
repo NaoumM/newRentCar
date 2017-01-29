@@ -1,4 +1,4 @@
-package main.java.com.petros.diplomatiki.controllers;
+package main.java.com.petros.diplomatiki.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

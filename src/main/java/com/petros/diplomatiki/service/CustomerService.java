@@ -1,4 +1,4 @@
-package main.java.com.petros.diplomatiki.services;
+package main.java.com.petros.diplomatiki.service;
 
 import main.java.com.petros.diplomatiki.entity.Customer;
 

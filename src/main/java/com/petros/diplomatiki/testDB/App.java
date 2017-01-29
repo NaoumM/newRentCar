@@ -8,8 +8,8 @@ import java.sql.SQLException;
 
 		public static void main(String[] args)  {
 
-			String url = "jdbc:mysql://localhost:3306/RentACar?useSSL=false";
-			String user =  "root";
+			String url = "jdbc:mysql://localhost:3306/rent_a_car?useSSL=false";
+			String user =  "rootForRentACar";
 			String pass =  "12345";
 
 			// 1. Get a Connection to a database
